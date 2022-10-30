@@ -53,9 +53,9 @@ validators
 vcsi
 wand
 wget
-git+https://github.com/harshmyne/yt-dpp
-git+https://github.com/harshmyne/spidtest-cli
-git+https://github.com/harshmyne/area2p
+git+https://github.com/iharshtm/youtube
+git+https://github.com/iharshtm/speed-cli
+git+https://github.com/iharshtm/area
 git+https://github.com/sandy1709/Telethon@beta
 git+https://github.com/goldsmith/Wikipedia
 git+https://github.com/sandy1709/py-googletrans
